@@ -159,7 +159,7 @@ include_directories(
 
 ## Mark executable scripts (Python etc.) for installation
 ## in contrast to setup.py, you can choose the destination
-catkin_install_python(PROGRAMS scripts/gawtam2.py scripts/talker.py scripts/listener.py
+catkin_install_python(PROGRAMS scripts/gawtam2.py scripts/gawtam2list.py scripts/talker.py scripts/listener.py
    DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
  )
 
