@@ -18,7 +18,7 @@ Previous Experience:
 
 Current PORs:
 -------------
-1. I plan on joining the IPR team. 
+1. I plan on joining the IPR team next year.
 
 
 Why I want to work in the team:
@@ -29,22 +29,9 @@ Relevant Courses:
 -----------------
 Institute : 
 ED3170 - Python and OpenGL (Doing)
-ED1021 - C++ and OpenGL 
+ED1021 - C++ and OpenGL (S Grade)
 
 Online :
 Reinforcement Learning Specialisation (Coursera - Univ. of Alberta) (Doing)
 Introduction to tensorflow (Done)
-
-Section A
----------
-
-1. I've used Virtual Machine instead of Dual Boot, I hope it's fine.
-2. 
-
-Section B
-----------
-
-1. Subection B.1 - Programming :  
-2. Subection B.2 - Navigation : https://becominghuman.ai/do-self-driving-cars-drive-in-bad-weather-f73681ba51c2
-3. Subection B.3 - Computer Vision : 
 
